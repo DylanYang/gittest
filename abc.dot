@@ -4,5 +4,6 @@ graph {
     a -- c; 
     d -- c; 
     e -- c; 
-    e -- a; 
+    e -- a;
+    a -- f;
   }
